@@ -18,4 +18,4 @@ msgstr ""
 #, True
 msgctxt "When opening someone else's playlist, and you don't already have it saved in your list of playlists, this action lets you save it to your list of playlists|A playlist view|Playlist actions|sPlaylistActionAddToRootlist"
 msgid "\\n \\& \" \\n Subscribe"
-msgstr "\\n ''& ''n subscriberar"
+msgstr "\\n   ''& ''n subscriberar"
