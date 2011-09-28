@@ -1,0 +1,23 @@
+{
+"requiredLanguages" : [
+    "en",
+    "fr",
+    "es"
+  ],
+  "strings" : {
+    "A playlist view" : {
+      "Playlist actions" : {
+        "sPlaylistActionAddToRootlist" : {
+          "approved" : true,
+          "description" : "When opening someone else's playlist, and you don't already have it saved in your list of playlists, this action lets you save it to your list of playlists",
+          "translations" : {
+            "en" : "\\n \\& \" \n Subscribe",
+            "es" : "\\n \\& \" \n A√±adir",
+            "fr" : "\\n \\& \" \n S'abonner"
+          }
+    }
+}
+}
+}
+}
+
