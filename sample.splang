@@ -4,6 +4,7 @@
     "fr",
     "es"
   ],
+
   "strings" : {
     "A playlist view" : {
       "Playlist actions" : {
@@ -15,9 +16,9 @@
             "es" : "\\n \\& \" \n A√±adir",
             "fr" : "\\n \\& \" \n S'abonner"
           }
+        }
     }
-}
-}
-}
+  }
+ }
 }
 
