@@ -1,0 +1,7 @@
+# All po files #
+################
+*.po
+
+# translation index #
+#####################
+.translation_index/
