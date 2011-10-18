@@ -21,4 +21,11 @@ msgstr ""
 #, True
 msgctxt "When opening someone else's playlist, and you don't already have it saved in your list of playlists, this action lets you save it to your list of playlists|A playlist view|Playlist actions|sPlaylistActionAddToRootlist"
 msgid "\\n \\& \" \\n Subscribe"
-msgstr "\\n \\!!!"
+msgstr "This is the old translation"
+
+#. A playlist view|Playlist actions|sPlaylistActionAddToWhatlist
+#: sample.splang
+#, True
+msgctxt "When else's playlist, and you don't already have it saved in your list of playlists, this action lets you save it to your list of playlists|A playlist view|Playlist actions|sPlaylistActionAddToRootlist"
+msgid "Let us test this string"
+msgstr ""
